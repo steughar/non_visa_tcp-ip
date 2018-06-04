@@ -1,0 +1,15 @@
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.csprojResolveAssemblyReference.cache
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.csproj.ResolveComReference.cache
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.csproj.CoreCompileInputs.cache
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.exe.config
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.exe
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.pdb
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.exe
+c:\users\demouser\source\repos\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.pdb
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.exe.config
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.exe
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\bin\Debug\SCPI_M9383X.pdb
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.csprojResolveAssemblyReference.cache
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.csproj.ResolveComReference.cache
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.exe
+C:\Users\sergeevi.KEYSIGHT\Documents\Sukhov\C#\SCPI_M9383X\SCPI_M9383X\obj\Debug\SCPI_M9383X.pdb
